@@ -68,8 +68,8 @@
     - User acceptance testing.
   
 ## Deployment
-- **Backend Deployment:**
-  - Deploy using Vercel initially and then host on something larger like AWS.
+- **Web Deployment:**
+  - Deploy using Vercel initially and then something like AWS when I need space for DB.
 - **Mobile App Deployment:**
   - Further develop the app for mobile devices.
     - Deploy on Google Play Store and Apple App Store.
